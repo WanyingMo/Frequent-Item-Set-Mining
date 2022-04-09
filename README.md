@@ -1,4 +1,4 @@
-# Product-Recommendation
+# Frequent-Item-Set-Mining
 - The action or practice of selling additional products or services to existing customers is called cross-selling. Giving product recommendation is one of the
 examples of cross-selling that are frequently used by online retailers. One simple method to give product recommendations is to recommend products that are frequently browsed  together by the customers.
 - 2d:Identify pairs of items (X, Y) such that the support of {X, Y} is at least 100. For all such pairs, compute the confidence scores of the corresponding association rules: X ⇒ Y, Y ⇒ X. Sort the rules in decreasing order of confidence scores and list the top 5 rules in the writeup. Break ties, if any, by lexicographically increasing order on the left hand side of the rule.
